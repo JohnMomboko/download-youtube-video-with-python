@@ -14,6 +14,6 @@ pip install pytube
 Exécution du script
 Une fois que vous avez installé Python et la bibliothèque PyTube, vous pouvez exécuter le fichier youtube.py pour télécharger une vidéo. Assurez-vous d'avoir le lien de la vidéo que vous souhaitez télécharger.
 
-
+```bash
 python youtube.py
 Le script vous guidera à travers les étapes nécessaires pour télécharger la vidéo. Vous pouvez personnaliser le script pour ajouter des fonctionnalités supplémentaires ou l'intégrer dans d'autres projets selon vos besoins
